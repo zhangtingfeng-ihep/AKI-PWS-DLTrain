@@ -1,1 +1,5 @@
+PWS data can be downloaded from the following website
+
 https://ihepbox.ihep.ac.cn/ihepbox/index.php/s/ibhGxCMxph4q31F
+
+Among them, the subvolume-image folder is the image area slice of the extracted subvolume, and the Label folder is the label result. Projection.tar.gz is the X-ray projection image before reconstruction
