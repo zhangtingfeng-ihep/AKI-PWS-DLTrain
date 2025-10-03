@@ -1,0 +1,5 @@
+AKI data can be downloaded from the following website
+
+https://ihepbox.ihep.ac.cn/ihepbox/index.php/s/GII6VIsb47BjIfU
+
+Among them, the Slice folder is the 2D reconstructed slice, and the Label folder is the annotated result. Projection.tar.gz is the X-ray projection image before reconstruction
