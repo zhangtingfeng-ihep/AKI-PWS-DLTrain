@@ -20,20 +20,20 @@ Hardware Requirements
 
 CPU/GPU: The code supports both CPU and GPU training. For faster training, a CUDA-compatible GPU is recommended.
 Memory: At least 8GB RAM for CPU training; 16GB or more recommended for GPU training.
-Storage: Ensure sufficient disk space for input images, labels, and model outputs (e.g., checkpoints, visualizations).
+Storage: Ensure sufficient disk space for input images, labels, and model outputs .
 
 Setup Instructions
 
 Prepare Data:
 
-Place your input images (TIFF format) in the directory specified by SLICE_DIR 
-Place corresponding segmentation masks (TIFF format) in the directory specified by LABEL_DIR
+Place your input images in the directory specified by SLICE_DIR 
+Place corresponding segmentation masks in the directory specified by LABEL_DIR
 Ensure the number of image and mask files match and are correctly paired.
 
 
 Configure Output Directory:
 
-The model outputs (checkpoints, training history, and visualizations) will be saved to OUTPUT_DIR
+The model outputs will be saved to OUTPUT_DIR
 
 
 Install Dependencies:
