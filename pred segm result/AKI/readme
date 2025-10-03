@@ -1,3 +1,5 @@
 The results predicted using the five models can be downloaded from the following link
 
 https://ihepbox.ihep.ac.cn/ihepbox/index.php/s/Xstr1FBUdHUG0Zs
+
+The prediction code provides examples of Transunet code, while other models only need to modify the model import
